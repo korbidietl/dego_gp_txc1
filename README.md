@@ -2,8 +2,10 @@
 Group Project in Data Ecosystems and Governance in Organizations - TXC Group 1
 
 ## Team Members
+- Korbinian Dietl
+- ocebort
+- mkrzhovska
 - Riccardo Borella
-
 
 __TODOS FOR README.md__
 * Document what you found and your methodology. 
